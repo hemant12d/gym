@@ -38,7 +38,7 @@ body{
     background-size: cover;
     /* background: no-repeat; */
     position: absolute;
-    left: 400px;
+    left: 410px;
     bottom: 200px;
     animation: shake linear 0.9s infinite;
 }
